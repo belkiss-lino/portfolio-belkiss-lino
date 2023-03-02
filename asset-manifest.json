@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio-belkiss-lino/static/css/main.fbbfdabf.css",
-    "main.js": "/portfolio-belkiss-lino/static/js/main.1a8ffd7b.js",
+    "main.css": "/portfolio-belkiss-lino/static/css/main.1856d938.css",
+    "main.js": "/portfolio-belkiss-lino/static/js/main.2a05abe2.js",
+    "static/media/portfolio0.png": "/portfolio-belkiss-lino/static/media/portfolio0.977dd30b252510307625.png",
     "static/media/cv.pdf": "/portfolio-belkiss-lino/static/media/cv.2859b534e7f27e906b90.pdf",
     "static/media/perfil.png": "/portfolio-belkiss-lino/static/media/perfil.d9bbab933f2dcde4ea2e.png",
     "static/media/portfolio3.jpeg": "/portfolio-belkiss-lino/static/media/portfolio3.4134149ff46a6426a397.jpeg",
@@ -11,11 +12,11 @@
     "static/media/portfolio1.png": "/portfolio-belkiss-lino/static/media/portfolio1.752b712f9771bd989e5e.png",
     "static/media/portfolio5.jpg": "/portfolio-belkiss-lino/static/media/portfolio5.ef59a0cc548344f174ad.jpg",
     "index.html": "/portfolio-belkiss-lino/index.html",
-    "main.fbbfdabf.css.map": "/portfolio-belkiss-lino/static/css/main.fbbfdabf.css.map",
-    "main.1a8ffd7b.js.map": "/portfolio-belkiss-lino/static/js/main.1a8ffd7b.js.map"
+    "main.1856d938.css.map": "/portfolio-belkiss-lino/static/css/main.1856d938.css.map",
+    "main.2a05abe2.js.map": "/portfolio-belkiss-lino/static/js/main.2a05abe2.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbbfdabf.css",
-    "static/js/main.1a8ffd7b.js"
+    "static/css/main.1856d938.css",
+    "static/js/main.2a05abe2.js"
   ]
 }
