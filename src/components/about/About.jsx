@@ -1,9 +1,7 @@
 import React from 'react'
 import './About.css';
-import ME from '../../assets/img-1.png';
+import ME from '../../assets/img-1.jpeg';
 import { FaAward } from 'react-icons/fa';
-import { FiUsers } from 'react-icons/fi';
-import { VscFolderLibrary } from 'react-icons/vsc';
 
 const About = () => {
   return (
@@ -29,6 +27,8 @@ const About = () => {
               <h5>Curso Técnico em Informática com Ênfase em Programação - <span>POLIMIG</span></h5>
               <h5>Curso Javascript FullStack - <span>OneBitCode</span></h5>
               <h5>Curso Lógica de Programação - <span>Senai</span></h5>
+              <h5>Curso Web Moderno - <span>Udemy</span></h5>
+
             </article>
           </div>
             <p>
