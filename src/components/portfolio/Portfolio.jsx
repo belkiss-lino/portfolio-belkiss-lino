@@ -20,16 +20,16 @@ const Portfolio = () => {
           </div>
           <h3>Loja de Livros - Com Redux</h3>
           <div className='portfolio__item-cta'> 
-            <a href='https://github.com/belkiss-lino/costs' className='btn' target='_blank'>GitHub</a>
+            <a href='https://github.com/belkiss-lino/book-shopping' className='btn' target='_blank'>GitHub</a>
           </div>
         </article>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
             <img src={IMG1} alt="" />
           </div>
-          <h3>Costs - Crie seu Projeto</h3>
+          <h3>Previsão do Tempo - Consumindo API</h3>
           <div className='portfolio__item-cta'> 
-            <a href='https://github.com/belkiss-lino/costs' className='btn' target='_blank'>GitHub</a>
+            <a href='https://github.com/belkiss-lino/weather-forecast' className='btn' target='_blank'>GitHub</a>
           </div>
         </article>
         <article className='portfolio__item'>
